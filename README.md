@@ -26,7 +26,8 @@ While the model itself is a 3D object (which you can view directly in GitHub!), 
 
 ## Tools Used
 
-* **GitHub Web Interface:** All activities will be performed directly in your web browser using your GitHub account. No additional software installation is required.
+* **GitHub Web Interface:** All activities will be performed directly in your web browser using your GitHub account.
+* https://www.viewstl.com/ for editing the STL files.
 
 ## Activity Overview (Instructor-Led)
 
